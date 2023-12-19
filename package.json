@@ -1,0 +1,14 @@
+{
+  "name": "back-memory-game",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "prisma": "^5.7.1"
+  }
+}
